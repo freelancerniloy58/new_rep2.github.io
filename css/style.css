@@ -1,0 +1,353 @@
+.first {
+	background: #87509C;
+	text-align: center;
+}
+.first .first-head {
+	padding: 70px 0 120px 0;
+}
+.first .first-head .logo {
+	width: 100px;
+	height: 60px;
+	margin-left: 40px;
+}
+.first .first-head .manu {
+	float: right;
+}
+.first .first-head .manu a {
+	text-transform: uppercase;
+	
+	padding: 0px 10px;
+	margin-right: 0px;
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 5px;
+}	
+.first .first-head .manu a:hover {
+	background: #643A79;
+}
+.first .first-body {
+	padding: 0 180px;
+}
+.first .first-body h2 {
+	
+	color: #ffffff;
+	font-size: 35px;
+}
+.first .first-body .button {
+	padding: 25px 0 120px 0;
+}
+.first .first-body .button a {
+	font-size: 16px;
+	color: #ffffff;
+	border-radius: 5px;
+	background: #EB7D4B;
+	padding: 10px 60px;
+	border-bottom: 3px solid #C86A40;
+}
+
+.mbody {
+		background: #17C2A4;
+		margin: auto;
+}
+.text1 {
+	text-align: center;
+	padding: 80px 280px 0 280px;
+}
+.text1 .underline {
+	width: 80px;
+	height: 5px;
+	margin: auto;
+	background: #14A58C;
+	border-radius: 15%;
+}
+.text2 .underline2 {
+	width: 80px;
+	height: 5px;
+	background: #C8D9E5;
+	margin: auto;
+}
+.skils-head .underline-s {
+	width: 80px;
+	height: 5px;
+	background: #DFE8ED;
+	margin: auto;
+}
+.text3 .underline3 {
+	width: 80px;
+	height: 5px;
+	background: #E5C37F;
+	margin: auto;
+} 
+.comenthead .underline4 {
+	width: 80px;
+	height: 5px;
+	background: #B73C6D;
+	margin: auto;
+}
+.touch .touch-head .underline5 {
+	width: 80px;
+	height: 5px;
+	background: #273A71;
+	margin: auto;
+} 
+
+.text1 h1 {
+	color: #ffffff;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+}
+.text1 p {
+	font-size: 16px;
+}
+.in h2 {
+	color: #ffffff;
+	text-transform: uppercase;
+	font-size: 24px;
+}
+.text1 p {
+	color: #ffffff;
+	padding-top: 15px;
+}
+.in {
+	padding-top: 50px;
+	text-align: center;
+	padding-bottom: 90px;
+}
+.in h2 {
+	padding-top: 50px;
+}
+.in img {
+	width: 115px;
+	height: 100px;
+}
+.in p {
+	color: #ffffff;
+	padding-top: 20px;
+}
+.in p {
+	padding: 0 20px;
+}
+.mbody2 {
+	background: #E7F1F8;
+}
+.text2 {
+	text-align: center;
+	padding: 110px 250px 0 250px;
+}
+.text2 h1 {
+	text-transform: uppercase;
+	padding-bottom: 5px;
+}
+.mbody2 .text2 p {
+	padding: 20px 0 50px 0;
+}
+.in2 h2 {
+	text-transform: uppercase;
+}
+.in2 h6 {
+	color: #13b29a;
+	}
+.in2 .pic {
+	width: 200px;
+	height: 200px;
+	background: #878787;
+	margin: auto;
+	border-radius: 50%;
+}
+.in2 .ii i {
+	font-size: 15px;
+	color: #ffffff;
+	background: #9BACB9;
+	border: 5px solid #9BACB9;
+	border-radius: 50%;
+}
+.in2 .ii a {
+	padding: 3px;
+}
+.mbody2 .in2 {
+	text-align: center;
+	padding-bottom: 100px;
+}
+.mbody2 .in2 h2 {
+	font-size: 24px;
+	padding-top: 50px;
+}
+.mbody2 .in2 p {
+	padding: 15px 50px;
+}
+.skils {
+	background: #FFFFFF;
+	text-align: center;
+}
+.skils-head h3 {
+	padding: 100px 0 10px 0;
+}
+.skils-head p {
+	padding-top: 30px;
+}
+.skils-body {
+	padding: 120px 0 210px 0;
+}
+.portfolio {
+	margin-bottom: 0px;
+	background: #FFDD99;
+	text-align: center;
+}
+.portfolio .text3 h1 {
+	padding-top: 100px;
+}
+.portfolio .text3 p {
+	padding: 20px 320px 0 320px;
+}
+.portfolio .text3 a {
+	text-transform: uppercase;
+	background: #ebc985;
+	padding: 5px 25px;
+	margin-right: 20px;
+	font-size: 20px;
+	color: black;
+	border-radius: 5px;
+}	
+.portfolio .text3 a:hover {
+	background: #ffffff;
+}
+.portfolio .text3 .option {
+	padding:20px 0 0 0;
+}
+.portfolio h3 {
+	padding-top: 25px;
+}
+.portfolio img {
+	
+	padding-top: 60px;
+}
+.portfolio .loadmore {
+	padding: 40px 0 70px 0;
+}
+.portfolio .loadmore a {
+	text-transform: uppercase;
+	background: #17C2A4;
+	padding: 12px 40px;
+	margin-right: 20px;
+	font-size: 13px;
+	color: #ffffff;
+	border-bottom: 5px solid #14A58C;
+	border-radius: 5px;
+}
+.coment {
+	margin-bottom: 0px;
+	background: #D74680;
+	
+}
+.coment .comenthead {
+	padding: 110px 250px 0 250px;
+	text-align: center;
+}
+.coment .comenthead h1 {
+	color: #ffffff;
+	font-size: 40px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.coment .comenthead p {
+	padding-top: 25px;
+	color: #ffffff;
+	font-size: 18px;
+	text-align: center;
+}
+.coment .coment-body {
+	padding-top: 70px;
+}
+.coment .coment-body .part1 {
+	padding-bottom: 120px;
+}
+.coment .coment-body .clients {
+	width: 100px;
+	height: 100px;
+	background: #787878;
+	border-radius: 50%;
+}
+.coment .coment-body .part1 .clients-coment {
+	text-align: left;
+	padding-left: 20px;
+	
+}
+.coment .coment-body .part1 .clients-coment p {
+	color: #ffffff;
+	padding-right: 20px;
+}
+.coment .coment-body .part1 .clients-coment h3 {
+	color: #ffffff;
+	text-transform: uppercase;
+	font-size: 24px;
+}
+.coment .coment-body .part1 .clients-coment h4 {
+	color: #F4B592;
+	font-size: 18px;
+}
+.touch {
+	background: #3C5499;
+	padding-top: 120px;
+	text-align: center;
+}
+.touch .touch-head {
+	color: #ffffff;
+	text-align: center;
+}
+.touch .touch-head h2 {
+	font-size: 40px;
+	padding-bottom: 10px;
+}
+.touch .touch-head p {
+	padding: 25px 0 60px 0;
+	font-size: 18px;
+}
+.touch .touch-body{
+
+}
+.touch .touch-body input, .touch .touch-body textarea {
+	background: #273A71;
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+	padding-left: 20px;
+	margin-bottom: 20px;
+	color: #ffffff;
+}
+.touch .touch-body input {
+	height: 55px;
+	
+}
+.touch .touch-body textarea {
+	height: 200px;
+	padding-top: 10px;
+}
+.touch-body .loadmore {
+	padding: 30px 0 60px 0;
+}
+.touch-body .loadmore button {
+	text-transform: uppercase;
+	background: #30BAE7;
+	padding: 12px 70px;
+	margin-right: 20px;
+	border: none;
+	font-size: 13px;
+	color: #ffffff;
+	border-bottom: 5px solid #14A58C;
+	border-radius: 5px;
+}
+.footer {
+	background: #344B8E;
+	padding: 30px 0;
+}
+.footer a {
+	padding-right: 67px;
+	font-size: 24px;
+	color: #ffffff;
+}
+.footer a:hover {
+	color: #30BAE7;
+	text-decoration: none;
+}
+
+
